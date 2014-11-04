@@ -20,15 +20,6 @@ Abreviaturas
 Indentificadores de cabecera
 
 
+![markdown](http://vim-voom.github.io/pics/voom_voomhelp_split.png "MARKDOWN")
 
-
-
-Pueden:
-
-- Borrarme
-- Modificarme
-- Dejarme como está y agregar nuevas carpetas
-- [Desde acá me "copian"](https://github.com/acercadelaeducacion/GitHub-Para-Todos/fork)
-
-![beemo](http://media.giphy.com/media/Uoyf084JYOblK/giphy.gif "Este texto aparece cuando el mouse está sobre la imagen")
 
